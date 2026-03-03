@@ -11,7 +11,9 @@ difficult to handle after runn one time if we chane delay time in node jd sectio
 
 >> Virus_for_attiny85.py caan be use in attiny to work same and virus-5.js too. just need to write function in attiny85
    to write either virus_for_attiny85.py or virus-5.js code and run as need for them like
+
 >> node virus-5.js // for node js file
+
 >> pyhton virus_for_attiny85.py # for python file
 >> In terminal as seen fit.
 
