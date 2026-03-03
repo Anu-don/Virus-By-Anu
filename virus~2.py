@@ -7,9 +7,6 @@ import turtle as t
 import webbrowser as hackedWeb
 from random import randrange
 
-
-
-os.chdir("C://users//anurag")
 ts = t.Screen()
 tt = t.Turtle()
 t.tracer(0) # To Stop Animations 
@@ -151,7 +148,5 @@ for dw in "#DonAnu":
             dw ,True,font =("Algerian",28)
                 )
         ts.delay(40)
-
-
 
 # donew with this
