@@ -213,13 +213,6 @@ def run_commands_and_final_scene(x, y):
 
 
 # --- Main Execution ---
-
-# Set current directory. This might cause an error if the path doesn't exist.
-try:
-    os.chdir("C://users//anurag")
-except FileNotFoundError:
-    print("Warning: Could not change directory to C://users//anurag. Continuing in current directory.")
-
 # Start the first scene
 scene1()
 
